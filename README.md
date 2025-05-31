@@ -1,15 +1,15 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hassan Ezz
+# Hi ![])My name is Souhaib Abdulaal
 
 ## Passionate student && software developer
 
 Always building new stuff...
 
-- 🌍 I'm based in Cairo
-- ✉️  You can contact me at [dhassanezz98@gmail.com](mailto:dhassanezz98@gmail.com)
+- 🌍 I'm based in Ismialia
+- ✉️  You can contact me at [sahibabdelaal@gmail.com](mailto:sahibabdelaal@gmail.com)
 - 🏢 SWE intern @heurolabs
 - 🧠 I'm learning Advanced TypeScript
 
-![](https://komarev.com/ghpvc/?username=hasssanezzz)
+![](https://komarev.com/ghpvc/?username=souhaibabdulaal)
 
 ### Skills
 
