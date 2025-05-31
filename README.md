@@ -37,21 +37,21 @@ Always building new stuff...
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
-
 <p align="left">
 <a href="https://fb.com/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasssanezz" height="30" width="40" /></a>
 <a href="https://instagram.com/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasssanezz" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hasssanezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasssanezz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/souhaib-abdulall-020069291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="Souhaib Abdulall" height="30" width="40" /></a>
 </p>
 
+---
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>  
 
-<a href="http://www.github.com/hasssanezzz">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasssanezzz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="hasssanezzz's GitHub stats" />
+<a href="http://www.github.com/souhaibabdulaal">
+  <img src="https://github-readme-stats.vercel.app/api?username=souhaibabdulaal&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true" alt="Souhaib Abdulaal's GitHub stats" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasssanezzz&show_icons=true&locale=en&layout=compact" alt="hasssanezzz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souhaibabdulaal&show_icons=true&locale=en&layout=compact&title_color=14b8a6&text_color=ffffff&bg_color=000000&hide_border=true" alt="Souhaib Abdulaal's top languages" /></p>
